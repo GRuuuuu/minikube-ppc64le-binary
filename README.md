@@ -48,6 +48,7 @@ $ wget https://github.com/GRuuuuu/minikube-ppc64le-binary/releases/download/v1.7
 ~~~
 
 ~~~sh
+$ chmod +x minikube
 $ ./minikube start --vm-driver=none
 ~~~
 
